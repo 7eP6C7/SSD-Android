@@ -17,14 +17,14 @@ Tips:
 
 [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
 
-ShadowsocksD会跟随Shadowsocks更新代码。
+SSD会跟随Shadowsocks更新代码。
 ```
-  *  ShadowsocksD中的广告收入依然归Shadowsocks项目作者所有，ShadowsocksD不会分取此收入
+  *  SSD中的广告收入依然归Shadowsocks项目作者所有，SSD不会分取此收入
 ```
 
 ## Shared Wiki - 共享Wiki
 
-[ShadowsocksD项目共享Wiki](https://github.com/TheCGDF/SSD-Windows/wiki)
+[SSD项目共享Wiki](https://github.com/TheCGDF/SSD-Windows/wiki)
 
 ## Environment - 环境
 
@@ -52,6 +52,6 @@ tun2socks (BSD)             https://github.com/shadowsocks/badvpn
 pcre (BSD)                  https://android.googlesource.com/platform/external/pcre/+/master/dist2
 libancillary (BSD)          https://github.com/shadowsocks/libancillary
 shadowsocks-libev (GPLv3)   https://github.com/shadowsocks/shadowsocks-libev
-libev (GPLv2)               https://github.com/shadowsocks/libev
+libev (GPLv2)               https://git.lighttpd.net/mirrors/libev
 libsodium (ISC)             https://github.com/jedisct1/libsodium
 ```
