@@ -1,16 +1,12 @@
 # ShadowsocksD for Android
 
 ```
-因 @TheCGDF 繁忙，现计划转让本repo，要求：
-1、有Android开发能力（能够跟随上游更新）
-2、不咕
-注：转让后不限制接手者是否移除“全家桶检测”
-转让条件：
-向本repo提一条PR，将SSD-Android跟随上游更新至最新稳定版本，无重大BUG即可获得转让资格
-如有困难可以TG联系 @TheCGDF 获取一定的技术支持
-Tips:
-本repo中所有和上游有差异的代码都使用“region SSD”注释标记并包裹了起来，总计不超过50处
-因此git clone上游之后项目，可以使用Android Studio的Find in Path功能，搜索本repo中的“region SSD”并转移至上游项目即可
+SS项目继Android后，Windows端也加入了SIP008支持，预计不久后SS-Windows就会发布新版本并支持订阅功能。
+两年前，SSD项目因不满足于SS订阅功能的缺失而诞生，现SS已补上了这一缺失，所以SSD项目即将寿终正寝。
+SSD项目仓库将会进入Archive状态，如无意外，不久后将会被删除，届时发呆群也将一同解散。
+
+应当成为历史的东西就应当任其而去。
+感谢大家两年来的陪伴。
 ```
 
 ## Basic Project - 基础项目
